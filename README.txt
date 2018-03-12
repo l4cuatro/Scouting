@@ -1,10 +1,8 @@
 
 
 TODO
-
-1. Eagle Project Wrap-up
-	Talk to Mrs. Schwartz
-	Complete Paperwork
 	
-2. Eagle Application
+1. Eagle Application
+	Resume
+	Revise Life Purpose Statement
 	Email Mr. Dick
