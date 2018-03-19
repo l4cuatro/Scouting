@@ -3,6 +3,5 @@
 TODO
 	
 1. Eagle Application
-	Resume
-	Revise Life Purpose Statement
+	Add Mr. Nettels's Contact Info
 	Email Mr. Dick
