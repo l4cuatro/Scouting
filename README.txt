@@ -3,4 +3,4 @@
 TODO
 	
 1. Eagle Application
-	Email Mr. Dick
+	Add Project Photos to Binder
